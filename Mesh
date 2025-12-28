@@ -1,0 +1,12 @@
+<!doctype html>
+<html> 
+ <head></head> 
+ <body> <button onclick="sayHello()">Click me</button> 
+  
+<script>
+function sayHello(){
+alert ("Hello baby coder");
+}
+</script> 
+ </body>
+</html>
